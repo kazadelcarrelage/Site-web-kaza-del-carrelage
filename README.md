@@ -124,7 +124,7 @@
     <h2>Contact</h2>
     <form action="https://formsubmit.co/kazadelcarrelage@gmail.com" method="POST">
       <input type="text" name="name" placeholder="Votre nom" required>
-      <input type="email" name="email" placeholder="Votre e-mail" required>
+      <input type="email" name="email" placeholder="contact@kazadelcarrelage.fr" required>
       <textarea name="message" rows="5" placeholder="Votre message" required></textarea>
       <button type="submit">Envoyer</button>
     </form>
